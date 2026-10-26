@@ -1,4 +1,4 @@
-version_orig=1.11.0
+version_orig=1.17.0
 version="$version_orig-1"
 git_src --branch "debian/$version" "https://salsa.debian.org/debian/nghttp3.git"
 
